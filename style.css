@@ -52,7 +52,8 @@ main{
     align-self: center;
     justify-content: center;
     flex-direction: column;
-    background-color: #ffff;
+    background-position:center;
+    background-image:Screenshot_20260101-204342.png;
 background-position: center;
 background-size: cover;
 border: #ffff solid 2px;
